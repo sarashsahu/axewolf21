@@ -1,7 +1,7 @@
 ### Hi there 👋
-### Hi there, I'm Joshua  - aka Joshua  [ElitesDev][website1] 👋
+### Hi there, I'm Joshua  - aka Joshua  [ElitesDev][website2] 👋
 
-[![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
+[![Website2](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
 
 ## I'm a Interent Marketer, Developer, and Learner!!
 
