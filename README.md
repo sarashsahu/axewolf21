@@ -26,7 +26,7 @@
 
 <br />
 
-[website1]: https://www.elitesdev.com/
+[website]: https://www.elitesdev.com/
 [twitter]: https://twitter.com/axewolf21
 [youtube]: https://youtube.com/c/jbstech
 [instagram]: https://www.instagram.com/axe_wolf_.21/
