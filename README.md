@@ -1,10 +1,10 @@
-### Hi there 👋
-### Hi there, I'm Joshua  - aka Joshua  [ElitesDev][website2] 👋
+### Hi there, I'm Joshua  - aka Joshua & [ElitesDev][website2] 👋
 
-[![Website2](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
+[![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
 
 ## I'm a Interent Marketer, Developer, and Learner!!
 
+- 🔭 I am currently working for [HackerCTF][website1]!
 - ⚡ Manager of [ElitesDev][website2]!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
@@ -29,5 +29,5 @@
 [website2]: https://www.elitesdev.com/
 [twitter]: https://twitter.com/axewolf21
 [youtube]: https://youtube.com/c/jbstech
-[instagram]: https://www.instagram.com/axe_wolf_.21/
+[instagram]: https://instagram.com/axe_wolf_.21
 [linkedin]: https://www.linkedin.com/in/axewolf21/
