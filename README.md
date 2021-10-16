@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
 
-## I'm a Interent Marketer, Developer, and Learner!!
+## I'm a Interent Marketer, Developer, Gamer, and Learner!!
 
 - 🔭 I am currently working for [HackerCTF][website1]!
 - ⚡ Manager of [ElitesDev][website2]!
